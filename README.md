@@ -1,2 +1,2 @@
-# awesome-redis
+# Awesome Redis
 
