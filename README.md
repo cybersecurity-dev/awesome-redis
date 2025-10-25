@@ -5,6 +5,7 @@
 </p>
 
 # Awesome [Redis](https://redis.io/) (_**Re**mote **Di**ctionary **S**erver_) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]()
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/redis/)
 [![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
 
